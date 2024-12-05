@@ -11,7 +11,18 @@ In this project, you will analyse customer-level data which has been collected a
 
 The dataset is taken from the Kaggle website and it has a total of 2,84,807 transactions, out of which 492 are fraudulent. Since the dataset is highly imbalanced, so it needs to be handled before model building.
 
-Click this DataSet Link 👉 Credit_Card_Fraud_Detection
+# Data Source
+Click this DataSet Link 👉 [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+## How to Run the Project
+In order to run the project just download the data from above mentioned source then run any file.
+
+## Prerequisites
+You need to have installed following softwares and libraries in your machine before running this project.
+
+Python 3
+
+Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scikit-learn.
 
 # Observations:
 
